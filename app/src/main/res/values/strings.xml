@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDo\'s</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pick_date">Pick date</string>
+    <string name="pick_time">Pick time</string>
+    <string name="set_alarm">Set alarm</string>
+</resources>
